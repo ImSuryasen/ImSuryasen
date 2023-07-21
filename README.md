@@ -1,11 +1,6 @@
 ### Hi there 👋 myself Suryasen
 
 
-[https://github.com/ImSuryasen/ImSuryasen/assets/100407626/9e719a3f-0402-4090-8404-daf4e8e9b0e0](https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif)
-
-
-
-
 - 🔭 I’m currently working on a Healthcare Project
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
