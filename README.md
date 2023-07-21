@@ -29,6 +29,6 @@
 <a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
 
 ---
-<p align="center"><h3 align="center"> Show some ❤️ by ⭐ the repository!!!</h3></p>
+<!-- <p align="center"><h3 align="center"> Show some ❤️ by ⭐ the repository!!!</h3></p> -->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
