@@ -10,7 +10,7 @@
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/ImSuryasen/count.svg?align=center)
 
 #### 📫 How to reach me:
   
@@ -19,10 +19,6 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-874-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImSuryasen&show_icons=true&locale=en&layout=compact" alt="ImSuryasen" /></p>
