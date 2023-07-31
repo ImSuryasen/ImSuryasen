@@ -19,11 +19,10 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImSuryasen&show_icons=true&locale=en&layout=compact" alt="ImSuryasen" /></p>
 
 [![ImSuryasen's GitHub | Languages Over Time](https://stats.quine.sh/ImSuryasen/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImSuryasen)
 
-
+[![ImSuryasen's GitHub | Topics Over Time](https://stats.quine.sh/ImSuryasen/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImSuryasen)
 
 <a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
 
