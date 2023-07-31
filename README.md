@@ -20,8 +20,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImSuryasen&show_icons=true&locale=en&layout=compact" alt="ImSuryasen" /></p>
-
 [![ImSuryasen's GitHub | Languages Over Time](https://stats.quine.sh/ImSuryasen/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImSuryasen)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSuryasen&show_icons=true&locale=en" alt="ImSuryasen" /></p>
