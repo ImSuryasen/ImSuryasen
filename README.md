@@ -24,7 +24,7 @@
 
 [![ImSuryasen's GitHub | Topics Over Time](https://stats.quine.sh/ImSuryasen/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ImSuryasen)
 
-<a href=#><img src="https://raw.githubusercontent.com/ImSuryasen/ImSuryasen/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
+<a href=#><img src="https://github.com/ImSuryasen/ImSuryasen/blob/main/snake.svg"></a>
 
 ---
 <!-- <p align="center"><h3 align="center"> Show some ❤️ by ⭐ the repository!!!</h3></p> -->
