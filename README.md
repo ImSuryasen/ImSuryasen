@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Suryasen
-
+<img align='right' src='https://github.com/ImSuryasen/ImSuryasen/blob/main/octocat-anime.gif' width='150'>
 
 - 🔭 I’m currently working on a Healthcare Project
 - 🌱 I’m currently learning Web Development
@@ -7,7 +7,6 @@
 - ⚡ Fun fact:
         The term "bug" to describe a programming error originated when a moth got trapped in a computer relay in 1947, leading to the first documented case of debugging.
   
-<img align='right' src='https://github.com/ImSuryasen/ImSuryasen/blob/main/octocat-anime.gif' width='150'>
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
