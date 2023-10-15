@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Suryasen
 <img align='right' src='https://github.com/ImSuryasen/ImSuryasen/blob/main/octocat-anime.gif' width='150'>
 
-- 🔭 I’m currently working on a Recycling Project
+- 🔭 I’m currently working on a Recycling Project♻️
 - 🌱 I’m currently learning Web🌐 and Cloud🌩️ Development
 - 💬 Ask me about Android Development📱
 - Reach me through: myselfsuryasen@gamil.com
