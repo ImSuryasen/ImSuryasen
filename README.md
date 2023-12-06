@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Recycling Project♻️
 - 🌱 I’m currently learning Web🌐 and Cloud🌩️ Development
 - 💬 Ask me about Android Development📱
-- Reach me through: myselfsuryasen@gamil.com
+- Reach me through: myselfsuryasen@gmail.com
 - ⚡ Fun fact:
         The term "bug" to describe a programming error originated when a moth got trapped in a computer relay in 1947, leading to the first documented case of debugging.
   
