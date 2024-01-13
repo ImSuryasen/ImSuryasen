@@ -14,7 +14,6 @@
 ![visitors](https://profile-counter.glitch.me/ImSuryasen/count.svg?align=center)
 
 
- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
 
 #### 📫 How to reach me:
   
